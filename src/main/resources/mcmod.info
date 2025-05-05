@@ -1,10 +1,10 @@
 [
 {
-  "modid": "yegamolchattels",
-  "name": "Ye Gamol Chattels",
+  "modid": "${modId}",
+  "name": "${modName}",
   "description": "Adds a number of mostly decorational items to the game, with a focus on keeping the Minecraft aesthetics both visually and thematically.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "version": "${modVersion}",
+  "mcversion": "${minecraftVersion}",
   "url": "http://www.minecraftforum.net/topic/563257-152",
   "updateUrl": "",
   "authors": ["Ivorius", "TripleHeadedSheep"],
